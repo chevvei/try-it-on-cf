@@ -1,0 +1,2 @@
+# SPA fallback - 所有路径都返回 index.html（适用于 Flutter Web）
+/*    /index.html   200
