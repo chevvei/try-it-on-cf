@@ -71508,7 +71508,7 @@ $S:469}
 A.a77.prototype={
 mI(){var s=t.N
 return A.u(s,s)},
-n5(a){return"http://localhost:8787/proxy/"+a},
+n5(a){return"https://hf-proxy.821528331.workers.dev/proxy/"+a},
 x8(a,b,c,d){return this.Qj(a,b,c,d)},
 Qj(a,b,c,d){var s=0,r=A.N(t.F),q,p=this
 var $async$x8=A.J(function(e,f){if(e===1)return A.K(f,r)
